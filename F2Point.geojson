@@ -1,0 +1,767 @@
+{
+  "type": "FeatureCollection",
+  "name": "F2",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "xy_coordinate_resolution": 1e-9,
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "secondfloor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81320978823578,
+          -6.225957466878047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "publicarea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81320370426486,
+          -6.225968924397256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81325718968003,
+          -6.2257955078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81317150953915,
+          -6.2259125769304315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81322988514754,
+          -6.225810334311475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81323037947058,
+          -6.225796250088236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81323516564706,
+          -6.225832993352942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81329140526925,
+          -6.225863026173074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81328985973333,
+          -6.225851607466666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81327776566667,
+          -6.2258641463333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81330561075,
+          -6.2258831695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "servicearea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81329555799998,
+          -6.2258719707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81330856612769,
+          -6.225936755148934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813305215,
+          -6.225914544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8133020105,
+          -6.225928242999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "publictoilet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81332249600001,
+          -6.225908527538463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "publictoilet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8133166491818,
+          -6.22594137309091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81329327514287,
+          -6.225954944000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "publictoilet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81330663524999,
+          -6.2259528305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "servicearea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81331785833333,
+          -6.225896796666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "servicearea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8132803113871,
+          -6.225977149677421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81326795319998,
+          -6.225980915999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81325359594445,
+          -6.225990426888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81315130125,
+          -6.226130739749999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81311875912499,
+          -6.226124927500001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81309947766668,
+          -6.226118072999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "servicearea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81319906073686,
+          -6.22613720563158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81321781095454,
+          -6.225921354090909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81322320012121,
+          -6.225894278121212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8132176089375,
+          -6.2259344753125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81316958126897,
+          -6.226051491158624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81319537058621,
+          -6.225999758344828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8131787385806,
+          -6.226045291935484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81316604872728,
+          -6.226093432000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81312705905404,
+          -6.226125893189189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8131917665,
+          -6.226131339833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8132218289355,
+          -6.226093135725805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8132159567647,
+          -6.22574463064706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81320256536111,
+          -6.2257840296388895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81319330375001,
+          -6.2258039615000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81318847300001,
+          -6.225824720333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81318139275001,
+          -6.22587237225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8131830263,
+          -6.2258862904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81318096125,
+          -6.22590083325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81317890312499,
+          -6.2259373185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8131802041,
+          -6.225940263499999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81314787621429,
+          -6.225987873214287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81312574128003,
+          -6.22602610992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81310864849998,
+          -6.226050696375001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81310474525,
+          -6.22606734925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81311810355554,
+          -6.226022952999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "escalator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81326007025001,
+          -6.2259207645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81320528277777,
+          -6.225872171666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81318964744443,
+          -6.225868333444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8132289592,
+          -6.2257750956999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81324872766668,
+          -6.225882694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81328152544444,
+          -6.225890563888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "servicearea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813280996,
+          -6.225834980666666
+        ]
+      }
+    }
+  ]
+}
